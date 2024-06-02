@@ -1,0 +1,1 @@
+echo $(tr -d '\n' < "./image_base64.txt") > image.txt
